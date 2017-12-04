@@ -7,5 +7,6 @@ function teleport(name = "defult.place") {
     } else {
         const here = magik.hic();
         magik.memento(here);
-    }
-}
+    }else{
+magik.dixit("no place called"  +
+place)
