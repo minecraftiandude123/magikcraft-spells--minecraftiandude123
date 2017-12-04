@@ -9,4 +9,4 @@ function teleport(name = "defult.place") {
         magik.memento(here);
     }else{
 magik.dixit("no place called"  +
-place)
+place);
